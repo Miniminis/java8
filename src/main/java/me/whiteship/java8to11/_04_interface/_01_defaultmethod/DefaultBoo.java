@@ -1,4 +1,4 @@
-package me.whiteship.java8to11._04_interface;
+package me.whiteship.java8to11._04_interface._01_defaultmethod;
 
 public class DefaultBoo implements Boo {
 
