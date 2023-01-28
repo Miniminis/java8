@@ -1,4 +1,4 @@
-package me.whiteship.java8to11._04_interface;
+package me.whiteship.java8to11._04_interface._01_defaultmethod;
 
 /**
  * 기본 메소드

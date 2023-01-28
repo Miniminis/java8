@@ -1,7 +1,5 @@
 package me.whiteship.java8to11._04_interface._01_defaultmethod;
 
-import me.whiteship.java8to11._04_interface.Foo;
-
 public class BasicFoo implements Foo {
 
     private final String city;
