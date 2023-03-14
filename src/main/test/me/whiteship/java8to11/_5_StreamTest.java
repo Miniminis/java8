@@ -1,4 +1,4 @@
-package me.whiteship.java8to11._05_stream;
+package me.whiteship.java8to11;
 
 import org.junit.jupiter.api.Test;
 
@@ -6,7 +6,7 @@ import java.util.Arrays;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
-public class ArrayTest {
+public class _5_StreamTest {
 
     @Test
     void 배열의_각_요소에_2를_곱한_배열을_반환한다() {
