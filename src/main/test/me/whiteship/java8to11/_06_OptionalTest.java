@@ -1,4 +1,4 @@
 package me.whiteship.java8to11;
 
-public class _9_OthersTest {
+public class _06_OptionalTest {
 }

@@ -6,7 +6,7 @@ import java.util.Arrays;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
-public class _5_StreamTest {
+public class _05_StreamTest {
 
     @Test
     void 배열의_각_요소에_2를_곱한_배열을_반환한다() {

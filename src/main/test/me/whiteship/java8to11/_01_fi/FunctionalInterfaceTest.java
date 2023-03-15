@@ -1,12 +1,10 @@
-package me.whiteship.java8to11;
+package me.whiteship.java8to11._01_fi;
 
-import me.whiteship.java8to11._01_fi.RunFactory;
-import me.whiteship.java8to11._01_fi.RunSomething;
 import org.junit.jupiter.api.Test;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
-public class _01_FunctionalInterfaceTest {
+public class FunctionalInterfaceTest {
 
     @Test
     void 익명내부클래스로_표현한다() {

@@ -1,4 +1,4 @@
-package me.whiteship.java8to11;
+package me.whiteship.java8to11._00_java;
 
 import org.junit.jupiter.api.Test;
 
@@ -7,7 +7,7 @@ import static org.assertj.core.api.Assertions.assertThat;
 /**
  * https://docs.oracle.com/javase/8/docs/api/java/lang/Math.html
  * */
-public class _0_MathTest {
+public class _00_MathTest {
 
     @Test
     void abs() {
