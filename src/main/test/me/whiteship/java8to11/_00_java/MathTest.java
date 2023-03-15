@@ -7,7 +7,7 @@ import static org.assertj.core.api.Assertions.assertThat;
 /**
  * https://docs.oracle.com/javase/8/docs/api/java/lang/Math.html
  * */
-public class _00_MathTest {
+public class MathTest {
 
     @Test
     void abs() {
