@@ -1,6 +1,7 @@
 package me.whiteship.java8to11._05_stream;
 
 import java.util.Objects;
+import java.util.Optional;
 
 public class Food {
 
@@ -9,6 +10,8 @@ public class Food {
     private String name;
 
     private boolean isLiked;
+
+    private String bestRestaurantName;
 
     public Food(int id, String name, boolean isLiked) {
         this.id = id;
@@ -26,6 +29,10 @@ public class Food {
 
     public boolean isLiked() {
         return isLiked;
+    }
+
+    public Optional<String> getBestRestaurantName() {
+        return Optional.ofNullable(bestRestaurantName);
     }
 
     @Override
